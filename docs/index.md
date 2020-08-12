@@ -39,17 +39,17 @@ Le canal Code Exchange permet le partage libre de code entre les membres de la c
 
 Les membres qui partagent du code sur le canal #code_exchange, et plus généralement sur l'ensemble du Slack, sont responsables de la vérification des droits d'auteur, licences, et autres autorisations de partage ou de modification afférentes au code partagé.
 
-## Canal #veille_tech
+## Canal #veille
 
-Le canal Veille Tech permet l'échange d'informations et d'actualités sur la technologie et plus généralement le monde du tech. Il est dédié : 
+Le canal Veille permet l'échange d'informations et d'actualités sur la technologie, l'entrepreneuriat, la cyber-sécurité, et plus généralement toute information qui pourrait être utile à la communauté.
 
-- Aux informations techniques / sorties de technologies et plus généralement à toute actualité technique.
 
-## Canal #veille_secu
+## Canal #random
 
-Le canal Veille Tech permet l'échange d'informations et d'actualités sur la sécurité et plus généralement le monde de la cyver-sécurité. Il est dédié : 
+Le canal Random permet le partage de posts n'ayant pas leur place dans les autres canaux.
 
-- Aux informations techniques / sorties de technologies ou procédés et plus généralement à toute actualité sur la cyber-sécurité.
+Il est précisé que ce canal sert généralement de partage de posts humoristiques.
+
 
 ## Modération des posts
 
@@ -69,4 +69,37 @@ L'utilisation de bots sur le slack est autorisée, aux conditions suivantes :
 ### Suppression de bot
 
 Les administrateurs du Slack se réservent le droit de supprimer un bot du Slack à tout moment. 
+
+## Acceptation / Invitation de nouveaux membres
+
+Tous les membres du Slack ont le droit d'inviter d'autres membres à rejoindre le Slack.
+
+Sont acceptés, sur les canaux Slack publics, toute personne physique ou morale souhaitant rejoindre le Slack, sans discrimination de choix technologiques ou de moeurs, à l'exception...
+
+### Concernant les développeurs PHP
+
+Les développeurs PHP sont acceptés sur le Slack, aux conditions suivantes : 
+
+- Savoir faire un hello world en Javascript.
+
+## Canaux privés
+
+Des canaux privés sont mis en place sur le Slack, afin de permettre des discussions autour de problématiques / thématiques particulières, ne concernant qu'une partie des membres du Slack.
+
+La politique d'invitations de chaque canal est décrite si besoin dans la partie dédiée à ce canal.
+
+Si aucune politique d'invitation n'est précisée, alors seuls les administrateurs ont le droit d'inviter des membres sur un canal privé. (ex: canal du bureau de l'association).
+
+Si aucune règle d'utilisation n'est précisée pour un canal privé, les administrateurs du Slack se réservent le droit de modération sur chaque canal privé.
+
+
+## Motifs d'exclusion du Slack
+
+Les administrateurs du Slack peuvent à tout moment exclure un membre du Slack, qui contreviendrait aux présentes conditions.
+Et plus précisément :
+
+- Si le membre ne respecte pas les bonnes moeurs
+- Si le membre porte atteinte à d'autres membres
+- Si le membre ne respecte pas la loi au sein du Slack
+- Si le conseil d'administration de l'association vote unanimement d'exclure le membre du Slack
 
