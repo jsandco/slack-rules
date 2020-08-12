@@ -50,6 +50,32 @@ Le canal Random permet le partage de posts n'ayant pas leur place dans les autre
 
 Il est précisé que ce canal sert généralement de partage de posts humoristiques.
 
+## Canal privé #jsbc
+
+Le canal JSBC est réservé aux membres du JS Business Club (JSBC). Il permet aux membres du JSBC d'inviter de nouveaux membres afin de s'inscrire aux prochains JSBC.
+
+Il est dédié :
+
+- Aux échanges entre entrepreneurs
+- Aux invitations aux prochains événements JSBC
+
+## Canal #site_internet
+
+Le canal Site Internet permet l'échange d'informations et de demandes concernant le site internet de JS&Co.
+
+Il est dédié : 
+
+- Aux propositions d'améliorations pour le site internet
+- A la remontée d'informations concernant le code ou les améliorations du site internet
+
+## Canal privé #team
+
+Le canal Team est réservé aux adhérents de l'association, qui souhaitent participer activement à la vie / l'organisation de l'association.
+
+Il est dédié : 
+
+- Au partage d'informations internes de l'association
+
 
 ## Modération des posts
 
